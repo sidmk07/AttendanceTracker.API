@@ -1,0 +1,6 @@
+@AttendanceTracker.API_HostAddress = http://localhost:5190
+
+GET {{AttendanceTracker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
