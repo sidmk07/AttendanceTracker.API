@@ -1,6 +1,5 @@
 ﻿using AttendanceTracker.API.Data;
 using AttendanceTracker.API.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AttendanceTracker.API.Controllers
