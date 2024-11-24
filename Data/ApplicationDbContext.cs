@@ -9,6 +9,8 @@ namespace AttendanceTracker.API.Data
         public DbSet<User> Users { get; set; }
         public DbSet<Student> Students { get; set; }
         public DbSet<Attendance> Attendances { get; set; }
+        public DbSet<SchoolGrade> Classes { get; set; }
+        public DbSet<Teacher> Teachers { get; set; }
 
     }
     // Add DbSet properties here (e.g., Students, Attendance)
